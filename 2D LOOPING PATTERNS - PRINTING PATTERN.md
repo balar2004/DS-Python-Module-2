@@ -16,7 +16,7 @@ To write a python program to print Pascal triangle
 6. Terminate the program.
 
 ## PROGRAM
-```
+```python
 rows=int(input())
 coef=1
 for i in range(1,rows+1):
