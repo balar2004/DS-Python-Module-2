@@ -12,7 +12,7 @@ To write a python program to define a function that accepts radius and returns t
 5. Terminate the program.
 
 ### PROGRAM
-```
+```python
 def area(radius):
     area = 3.14*radius*radius
     return area
